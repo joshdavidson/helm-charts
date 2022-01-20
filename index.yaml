@@ -3,6 +3,16 @@ entries:
   heimdall:
   - apiVersion: v2
     appVersion: 2.2.2
+    created: "2022-01-20T04:43:09.048618942Z"
+    description: Heimdall allows you to create custom start pages
+    digest: ad8415258f0d586a42296eba68e0a903082f02bca130e84827c429ba2bd12137
+    name: heimdall
+    type: application
+    urls:
+    - https://github.com/joshdavidson/helm-charts/releases/download/heimdall-0.1.2/heimdall-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 2.2.2
     created: "2022-01-20T04:34:38.708963448Z"
     description: Heimdall is organizes links web applications and is intended to be
       a start page.
@@ -25,6 +35,16 @@ entries:
   sonarr:
   - apiVersion: v2
     appVersion: 3.0.6.1432
+    created: "2022-01-20T04:43:12.253593496Z"
+    description: A Helm chart for Sonarr in Kubernetes
+    digest: 7547f620e3a1e1ade0f0ece9af94ac6115d84f514c5c55d02b83f02c2e03fcb9
+    name: sonarr
+    type: application
+    urls:
+    - https://github.com/joshdavidson/helm-charts/releases/download/sonarr-0.1.1/sonarr-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 3.0.6.1432
     created: "2022-01-20T04:34:38.898161078Z"
     description: A Helm chart for Sonarr in Kubernetes
     digest: 452c8baff9868d2140998bc8282efb5f0e58cdd2b7e727e2f51597b9b08df536
@@ -33,4 +53,4 @@ entries:
     urls:
     - https://github.com/joshdavidson/helm-charts/releases/download/sonarr-0.1.0/sonarr-0.1.0.tgz
     version: 0.1.0
-generated: "2022-01-20T04:34:38.898175378Z"
+generated: "2022-01-20T04:43:12.253607396Z"
