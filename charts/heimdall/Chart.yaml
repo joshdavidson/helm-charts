@@ -1,6 +1,6 @@
 apiVersion: v2
 name: heimdall
-description: A Helm chart for Heimdall in Kubernetes
+description: Heimdall is organizes links web applications and is intended to be a start page.
 
 # A chart can be either an 'application' or a 'library' chart.
 #
